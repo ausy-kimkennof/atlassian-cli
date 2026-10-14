@@ -19,7 +19,7 @@ resolve. `git log` remains the complete record.
   unchanged: Jira publishes the comment to everyone who can see the issue. The
   two flags are mutually exclusive. Note that `update` replaces visibility on
   every call, so omitting the flag when editing a restricted comment
-  republishes it. (#157)
+  republishes it. (#158)
 
 ## [0.10.0] - 2026-09-28
 
